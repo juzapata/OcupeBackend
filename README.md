@@ -40,6 +40,7 @@ Projeto final do Hackathon CCR - 2ª edição, realizado em grupo, em 2021.
 ### Buscar Mentorado
 
 * endpoint: https://ocupe-back-end.herokuapp.com/ocupe/get-mentored 
+* método: GET
 * body: 
 ```
 { email: STRING }
@@ -69,6 +70,7 @@ Projeto final do Hackathon CCR - 2ª edição, realizado em grupo, em 2021.
 ### Buscar Mentores
 
 * endpoint: https://ocupe-back-end.herokuapp.com/ocupe/get-mentors
+* método: GET
 * response: 
 ```
 {
