@@ -1,124 +1,124 @@
 const mentors = [
     {   
         "name": "Matheus",
-        "profissão": "Professor de Inglês",
-        "area": "Ciencias Humanas",
-        "contato": {
+        "profession": "Professor de Inglês",
+        "workfield": "Ciências Humanas",
+        "contact": {
             "email": "matheus@gmail.com",
             "phone": "11955555555"
         },
-        "agenda": "dias um",
-        "adress": "buenos aires"
+        "schedule": "dias um",
+        "address": "buenos aires"
     }, 
     {    
         "name": "Mariana",
-        "profissão": "Professora de Português",
-        "area": "Ciências Humanas",
-        "contato": {
+        "profession": "Professora de Português",
+        "workfield": "Ciências Humanas",
+        "contact": {
             "email": "mariana@gmail.com",
             "phone": "11944444444"
         },
-        "agenda": "dias dois",
-        "adress": "butantan"
+        "schedule": "dias dois",
+        "address": "butantan"
     },
     {    
         "name": "Erika",
-        "profissão": "Psicologa",
-        "area": "Saúde",
-        "contato": {
+        "profession": "Psicologa",
+        "workfield": "Saúde",
+        "contact": {
             "email": "erika@gmail.com",
             "phone": "11933333333"
         },
-        "agenda": "dias tres",
-        "adress": "salvador"
+        "schedule": "dias tres",
+        "address": "salvador"
     },
     {    
         "name": "Adriano",
-        "profissão": "Médico",
-        "area": "Saúde",
-        "contato": {
+        "profession": "Médico",
+        "workfield": "Saúde",
+        "contact": {
             "email": "adriano@gmail.com",
             "phone": "11922222222"
         },
-        "agenda": "dias 4",
-        "adress": "interlagos"
+        "schedule": "dias 4",
+        "address": "interlagos"
     },
     {    
         "name": "Leandro",
-        "profissão": "Enfermeiro",
-        "area": "Saúde",
-        "contato": {
+        "profession": "Enfermeiro",
+        "workfield": "Saúde",
+        "contact": {
             "email": "erika@gmail.com",
             "phone": "11966666666"
         },
-        "agenda": "dias 5",
-        "adress": "rio de janeiro"
+        "schedule": "dias 5",
+        "address": "rio de janeiro"
     },
     {    
         "name": "Edil",
-        "profissão": "Engenheiro",
-        "area": "Exatas",
-        "contato": {
+        "profession": "Engenheiro",
+        "workfield": "Exatas",
+        "contact": {
             "email": "edil@gmail.com",
             "phone": "11977777777"
         },
-        "agenda": "dias 6",
-        "adress": "lapa"
+        "schedule": "dias 6",
+        "address": "lapa"
     },
     {    
         "name": "Jessica",
-        "profissão": "Física",
-        "area": "Exatas",
-        "contato": {
+        "profession": "Física",
+        "workfield": "Exatas",
+        "contact": {
             "email": "jessica@gmail.com",
             "phone": "11988888888"
         },
-        "agenda": "dias 8",
-        "adress": "jabaquara"
+        "schedule": "dias 8",
+        "address": "jabaquara"
     },
     {    
         "name": "Andre",
-        "profissão": "Engenheiro de Dados",
-        "area": "Tecnologia",
-        "contato": {
+        "profession": "Engenheiro de Dados",
+        "workfield": "Tecnologia",
+        "contact": {
             "email": "andre@gmail.com",
             "phone": "11999999999"
         },
-        "agenda": "dias 9",
-        "adress": "sorocaba"
+        "schedule": "dias 9",
+        "address": "sorocaba"
     },
     {    
         "name": "Janaina",
-        "profissão": "Arquiteta de Software",
-        "area": "Tecnologia",
-        "contato": {
+        "profession": "Arquiteta de Software",
+        "workfield": "Tecnologia",
+        "contact": {
             "email": "jana@gmail.com",
             "phone": "11910101010"
         },
-        "agenda": "dias 10",
-        "adress": "belo horizonte"
+        "schedule": "dias 10",
+        "address": "belo horizonte"
     },
     {    
         "name": "Juliete",
-        "profissão": "UX Designer",
-        "area": "Tecnologia",
-        "contato": {
+        "profession": "UX Designer",
+        "workfield": "Tecnologia",
+        "contact": {
             "email": "ju@gmail.com",
             "phone": "11921212121"
         },
-        "agenda": "dias 11",
-        "adress": "recife"
+        "schedule": "dias 11",
+        "address": "recife"
     },
     {    
         "name": "Bruno",
-        "profissão": "Designer Gráfico",
-        "area": "Tecnologia",
-        "contato": {
+        "profession": "Designer Gráfico",
+        "workfield": "Tecnologia",
+        "contact": {
             "email": "ju@gmail.com",
             "phone": "11921212121"
         },
-        "agenda": "dias 12",
-        "adress": "monte alto"
+        "schedule": "dias 12",
+        "address": "monte alto"
     },
 
 ];
