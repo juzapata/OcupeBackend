@@ -1,7 +1,7 @@
 const mentored = [
     {
-        "id": 1,
         "name": "Laura",
+        "password": 1234,
         "contact": {
             "email": "laura@gmail.com",
             "phone": "11932323232"
@@ -17,8 +17,8 @@ const mentored = [
         }
     },
     {
-        "id": 2,
         "name": "Joana",
+        "password": 5678,
         "contact": {
             "email": "joana@gmail.com",
             "phone": "11943434343"
