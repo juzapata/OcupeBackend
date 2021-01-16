@@ -7,7 +7,7 @@ const mentored = [
             "phone": "11932323232"
         },
         "fieldOfInteresting": "Ciências Humanas",
-        "address": "rua",
+        "address": [-23.596200912557926, -46.62919120253252],
         "stages": {
             "vocationalTest": true,
             "psychologist": true,
@@ -24,7 +24,7 @@ const mentored = [
             "phone": "11943434343"
         },
         "fieldOfInteresting": "Tecnologia",
-        "address": "ruass",
+        "address": [-23.59367411813797, -46.63673357407591],
         "stages": {
             "vocationalTest": true,
             "psychologist": false,

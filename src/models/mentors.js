@@ -8,7 +8,7 @@ const mentors = [
             "phone": "11955555555"
         },
         "schedule": "dias um",
-        "address": "buenos aires"
+        "address": [-23.59245137135599, -46.639434269634904]
     }, 
     {    
         "name": "Mariana",
@@ -19,7 +19,7 @@ const mentors = [
             "phone": "11944444444"
         },
         "schedule": "dias dois",
-        "address": "butantan"
+        "address": [-23.596546521787857, -46.6358959141827]
     },
     {    
         "name": "Erika",
@@ -30,7 +30,7 @@ const mentors = [
             "phone": "11933333333"
         },
         "schedule": "dias tres",
-        "address": "salvador"
+        "address": [-23.595774348366437, -46.626775256512666]
     },
     {    
         "name": "Adriano",
@@ -41,18 +41,18 @@ const mentors = [
             "phone": "11922222222"
         },
         "schedule": "dias 4",
-        "address": "interlagos"
+        "address": [-23.59900470923938, -46.63154126523268]
     },
     {    
         "name": "Leandro",
         "profession": "Enfermeiro",
         "workfield": "Saúde",
         "contact": {
-            "email": "erika@gmail.com",
+            "email": "leandro@gmail.com",
             "phone": "11966666666"
         },
         "schedule": "dias 5",
-        "address": "rio de janeiro"
+        "address": [-23.58927217403586, -46.63102418719273]
     },
     {    
         "name": "Edil",
@@ -63,7 +63,7 @@ const mentors = [
             "phone": "11977777777"
         },
         "schedule": "dias 6",
-        "address": "lapa"
+        "address": [-23.592469790854146, -46.625548449713484]
     },
     {    
         "name": "Jessica",
@@ -74,7 +74,7 @@ const mentors = [
             "phone": "11988888888"
         },
         "schedule": "dias 8",
-        "address": "jabaquara"
+        "address": [-23.599615333122188, -46.63221154793884]
     },
     {    
         "name": "Andre",
@@ -85,7 +85,7 @@ const mentors = [
             "phone": "11999999999"
         },
         "schedule": "dias 9",
-        "address": "sorocaba"
+        "address": [-23.584982867039255, -46.62774881658506]
     },
     {    
         "name": "Janaina",
@@ -96,7 +96,7 @@ const mentors = [
             "phone": "11910101010"
         },
         "schedule": "dias 10",
-        "address": "belo horizonte"
+        "address": [-23.595071545629892, -46.622099644140214]
     },
     {    
         "name": "Juliete",
@@ -107,7 +107,7 @@ const mentors = [
             "phone": "11921212121"
         },
         "schedule": "dias 11",
-        "address": "recife"
+        "address": [-23.591853168688942, -46.63125143036507]
     },
     {    
         "name": "Bruno",
@@ -118,7 +118,7 @@ const mentors = [
             "phone": "11921212121"
         },
         "schedule": "dias 12",
-        "address": "monte alto"
+        "address": [-23.588355017735644, -46.631532693469474]
     },
 
 ];
