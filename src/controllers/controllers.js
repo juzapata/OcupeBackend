@@ -22,21 +22,8 @@ router.get('/get-mentors', async (req, res) => {
     }
 */
 router.get('/get-mentored', async (req, res) => {
-    
     try {
-        if (!req.body.email){
-            return res.status(400).send({sucesso: false, erro: "é necessário colocar o id do mentorado no body"});
-        }
-        let email = req.body.email;
-        let mentorado = Mentored.filter(person =>{
-            return person.contact.email == email;
-        });
-        if (!mentorado){
-            return res.status(400).send({sucesso: false, erro: "mentorad@ não existe"});
-        }
-
-        return res.status(200).send({sucesso: true, mentorado: mentorado[0]});
-
+        return res.status(200).send({sucesso: true, mentorados: Mentored});
     } catch (error) {
         console.log('ERRR', error);
         return res.status(400).send({error}); 
